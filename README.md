@@ -1,2 +1,2 @@
 # Portfolio-javascript
-portfolio website
+I enhanced my website for my JavaScript project by adding a dynamic portfolio page with a filtering feature to organize and display content seamlessly. I also upgraded the projects page with an engaging slider effect, making the user experience more interactive. Additionally, I implemented a functional contact form. I developed three interactive games Tic-Tac-Toe, Rock-Paper-Scissors, and Pong showcasing my skills in JavaScript and creating a more engaging platform for users.
